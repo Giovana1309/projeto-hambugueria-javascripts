@@ -73,7 +73,7 @@ li{
 @media (max-width:900px) {
     ul{
         
-        grid-template-columns: 160px 160px;
+        grid-template-columns: 140px 140px;
         padding: 0;
     
     }
