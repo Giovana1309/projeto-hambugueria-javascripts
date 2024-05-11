@@ -73,8 +73,24 @@ li{
 @media (max-width:900px) {
     ul{
         
-        grid-template-columns: 200px 200px;
-        
+        grid-template-columns: 160px 160px;
+        padding: 0;
     
     }
+    
+.caixa-botoes{
+   width: 380px;
+   gap: 10px;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+    }
+
+    button{
+        
+     
+        
+        width: 90px;
+    }
+    
 }
