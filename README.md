@@ -4,7 +4,7 @@
 <a href="#Map"> Map , Reduce , Filter </a> <br>
 <a href="#forEach"> ForEach </a> <br>
 <a href="#imagem">Imagem do projeto </a><br>
-<a href="https://giovana1309.github.io/JOGO-DEVCLUB/"> Visite o Projeto</a> <br>
+<a > Visite o Projeto</a> <br>
 
 
  
@@ -14,15 +14,23 @@
 <h1 id="objetivo"> Objetivo </h1>
  
  <h2> 
-Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> Este projeto teve como objetivo colocar em prática os conceitos aprendidos em JavaScript, tem como tema hamburgueria virtual . Utilizei técnicas de programação como map, reduce, filter e forEach para criar uma experiência interativa e funcional. </h2>
+Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> com objetivo colocar em prática os conceitos aprendidos em JavaScript, tem como tema hamburgueria virtual . Utilizei técnicas de programação como Map, Reduce, Filter e forEach para criar uma experiência interativa e funcional. </h2>
 <br>
--O forEach foi responsável por exibir todos os produtos na tela;
+
+- O forEach foi responsável por exibir todos os produtos na tela;
+  
 <br>
+
 - O Map foi usado para adicionar uma promoção de 10% nos lanches;
+  
 <br>
+
 - O reduce  foi usado para calcular o custo de todos os hambúrgueres ;
+  
  <br>
+ 
  - O filter foi usado para destacar os itens veganos.
+ - 
 
 <h1 id="tecnologias"> Métodos Ultilizados </h1>
 <br>
@@ -30,6 +38,7 @@ Este projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevCl
 <h1 id="Map">  Map , Reduce , Filter </h1>
 
 <br>
+
 - Map: Transforma cada elemento de uma lista aplicando uma função a ele, retornando uma nova lista com os resultados.
   
 - Reduce: Combina todos os elementos de uma lista em um único valor, aplicando uma função acumuladora.
@@ -52,4 +61,4 @@ ForEach é um método em várias linguagens de programação, como JavaScript, J
 
 <br>
 
-<img src="https://github.com/Giovana1309/JOGO-DEVCLUB/blob/main/20240504_173729_0000.png?raw=true">
+<img src="https://github.com/Giovana1309/projeto-hambugueria-javascripts/blob/main/Novo%20Projeto%20(1).png?raw=true">
